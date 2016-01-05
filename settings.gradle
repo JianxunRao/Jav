@@ -1,0 +1,1 @@
+include ':app', ':sample', ':flipviewpager', ':cheesesquare', ':sampleCloudtag', ':library', ':MaterialDesignDemo', ':MaterialDesign', ':circleimageview', ':circleimageviewsample', ':MaterialEditTextlibrary', ':PhotoViewlibrary', ':Universal-Image-Loaderlibrary', ':httpclient-4.3.1', ':httpcore-4.3', ':commons-logging-1.1.3', ':htmllexer2', ':htmlparser2', ':FinestWebViewlibrary'

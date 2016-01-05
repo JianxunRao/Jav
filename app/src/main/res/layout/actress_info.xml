@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl_actress_info"
+    android:orientation="vertical"
+    android:background="@android:color/transparent"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tv_actress_info_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        style="@style/TextView.Nickname"/>
+
+    <LinearLayout
+        android:layout_below="@id/tv_actress_info_name"
+        android:id="@+id/interestsPrimary"
+        style="@style/LinearLayout.Interests">
+
+        <TextView
+            android:id="@+id/tv_actress_info_birth"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/TextView.Interest"/>
+        <TextView
+            android:id="@+id/tv_actress_info_age"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/TextView.Interest"/>
+        <TextView
+            android:id="@+id/tv_actress_info_birthplace"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/TextView.Interest"/>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_below="@id/interestsPrimary"
+        android:id="@+id/interestsSecondary"
+        android:layout_marginTop="5dp"
+        style="@style/LinearLayout.Interests">
+
+        <TextView
+            android:id="@+id/tv_actress_info_height"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/TextView.Interest"/>
+        <TextView
+           android:id="@+id/tv_actress_info_bwh"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           style="@style/TextView.Interest"/>
+        <TextView
+            android:id="@+id/tv_actress_info_cup"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/TextView.Interest"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

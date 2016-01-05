@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navi_new"
+            android:icon="@drawable/ic_new_releases_black_48dp"
+            android:title="新发布"/>
+        <item
+            android:id="@+id/navi_hot"
+            android:icon="@drawable/ic_thumb_up_black_48dp"
+            android:title="高评价"/>
+        <item
+            android:id="@+id/navi_actress"
+            android:icon="@drawable/ic_face_black_48dp"
+            android:title="女优"/>
+        <item
+            android:id="@+id/navi_fav"
+            android:icon="@drawable/ic_favorite_black_48dp"
+            android:title="收藏"/>
+        <item
+            android:id="@+id/navi_tag"
+            android:icon="@drawable/ic_sort_black_48dp"
+            android:title="分类"/>
+        <item
+            android:id="@+id/navi_search"
+            android:icon="@drawable/ic_search_black_48dp"
+            android:title="搜索"/>
+    </group>
+    <item android:title="">
+        <menu>
+            <item
+                android:id="@+id/navi_login"
+                android:icon="@drawable/ic_account_circle_black_48dp"
+                android:title="登录"/>
+            <item
+                android:id="@+id/navi_setting"
+                android:icon="@drawable/ic_settings_48pt_3x"
+                android:title="设置"/>
+            <item
+                android:id="@+id/navi_exit"
+                android:icon="@drawable/ic_exit_to_app_black_48dp"
+                android:title="退出"/>
+        </menu>
+    </item>
+
+</menu>

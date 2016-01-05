@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FinestWebViewlibrary/FinestWebViewlibrary.iml" filepath="$PROJECT_DIR$/FinestWebViewlibrary/FinestWebViewlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jav.iml" filepath="$PROJECT_DIR$/Jav.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaterialDesign/MaterialDesign.iml" filepath="$PROJECT_DIR$/MaterialDesign/MaterialDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaterialDesignDemo/MaterialDesignDemo.iml" filepath="$PROJECT_DIR$/MaterialDesignDemo/MaterialDesignDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaterialEditTextlibrary/MaterialEditTextlibrary.iml" filepath="$PROJECT_DIR$/MaterialEditTextlibrary/MaterialEditTextlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PhotoViewlibrary/PhotoViewlibrary.iml" filepath="$PROJECT_DIR$/PhotoViewlibrary/PhotoViewlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Universal-Image-Loaderlibrary/Universal-Image-Loaderlibrary.iml" filepath="$PROJECT_DIR$/Universal-Image-Loaderlibrary/Universal-Image-Loaderlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cheesesquare/cheesesquare.iml" filepath="$PROJECT_DIR$/cheesesquare/cheesesquare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circleimageview/circleimageview.iml" filepath="$PROJECT_DIR$/circleimageview/circleimageview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circleimageviewsample/circleimageviewsample.iml" filepath="$PROJECT_DIR$/circleimageviewsample/circleimageviewsample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commons-logging-1.1.3/commons-logging-1.1.3.iml" filepath="$PROJECT_DIR$/commons-logging-1.1.3/commons-logging-1.1.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flipviewpager/flipviewpager.iml" filepath="$PROJECT_DIR$/flipviewpager/flipviewpager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/htmllexer2/htmllexer2.iml" filepath="$PROJECT_DIR$/htmllexer2/htmllexer2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/htmlparser2/htmlparser2.iml" filepath="$PROJECT_DIR$/htmlparser2/htmlparser2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/httpclient-4.3.1/httpclient-4.3.1.iml" filepath="$PROJECT_DIR$/httpclient-4.3.1/httpclient-4.3.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/httpcore-4.3/httpcore-4.3.iml" filepath="$PROJECT_DIR$/httpcore-4.3/httpcore-4.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sampleCloudtag/sampleCloudtag.iml" filepath="$PROJECT_DIR$/sampleCloudtag/sampleCloudtag.iml" />
+    </modules>
+  </component>
+</project>

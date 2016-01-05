@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@+id/rl_main_content"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar_home"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            android:focusable="true"
+            android:focusableInTouchMode="true">
+            <EditText
+                android:id="@+id/et_home_search"
+                style="@style/Search_Bar_EditText"
+                android:hint="搜索女优"
+              />
+        </android.support.v7.widget.Toolbar>
+
+
+    <ListView
+    android:id="@+id/lv_actress"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+        android:layout_below="@id/toolbar_home"
+        android:divider="#000000"
+        android:dividerHeight="1dp"
+        android:background="#000000">
+    </ListView>
+
+
+
+
+
+
+</RelativeLayout>
