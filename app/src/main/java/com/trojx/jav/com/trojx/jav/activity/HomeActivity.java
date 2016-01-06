@@ -393,6 +393,7 @@ public class HomeActivity extends AppCompatActivity {
                 return true;
             case R.id.actress_search:
                 if(et_home_search.isEnabled()){
+                    et_home_search.invalidate();
                     search();
                 }else {
                     et_home_search.setEnabled(true);

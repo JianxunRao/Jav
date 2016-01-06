@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout
     android:layout_width="fill_parent"
-    android:layout_height="wrap_content"
+    android:layout_height="match_parent"
     android:weightSum="2"
     android:background="@android:color/black"
     xmlns:android="http://schemas.android.com/apk/res/android">
@@ -11,7 +11,8 @@
         xmlns:android="http://schemas.android.com/apk/res/android"
         android:layout_width="0dp"
         android:layout_weight="1"
-        android:layout_height="wrap_content"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
          />
 
     <LinearLayout
@@ -24,7 +25,8 @@
         android:id="@+id/iv_right_actress_avatar"
         android:layout_width="0dp"
         android:layout_weight="1"
-        android:layout_height="wrap_content"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
          />
 
 </LinearLayout>
